@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const ciudad = ciudadInput.value.trim();
 
         if (!nombre || !ciudad) {
-            alert('Por favor, escribe tu nombre y tu ciudad.');
+            alert('Por favor, escribe tu nombre y tu ciudad..');
             return;
         }
 

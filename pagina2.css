@@ -29,5 +29,5 @@ input, button {
 button {
     background: #4caf50;
     color: white;
-    cursor: pointer;
+    cursor: crosshair;
 }
